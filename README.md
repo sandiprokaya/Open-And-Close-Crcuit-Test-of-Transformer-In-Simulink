@@ -5,4 +5,5 @@ It also includes the shunt paramaters in open circuit test
 and series paramaters in short circuit Test. the simulation and the caluclated value of the paramaters are verified by the calculation in the given
 .SLX file, so don't forget to run and simulate the matlab file in your computer and verify the results.
 
+IF YOU GET PROBLEMS WHILE SIMULATING THE FILE AND CONFUSED ABOUT DIFFERENT PARAMATERS AND CONFIGURATION FEEL FREE TO CONTACT AND ASK FOR QUERIES AT ANYTIME.
 - THANK YOU!!!!!
